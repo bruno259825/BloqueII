@@ -1,0 +1,17 @@
+.imgUp{
+    background-image:url('img/up.svg') ;
+    height: 15px;
+    width: 15px;
+    background-size: cover;
+    float: left;
+}
+.texto{
+    
+}
+.imgDown{
+    background-image:url('img/down.svg') ;
+    height: 15px;
+    width: 15px;
+    background-size: cover;
+    float: left;
+}
